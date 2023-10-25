@@ -1,2 +1,2 @@
 # promediogpo
-Mi primer repositorio
+#Crear un sistema con grupo, alumnos y calificaciones
