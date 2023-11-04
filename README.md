@@ -1,4 +1,4 @@
-# promediogpo
+#Equipo 4 Gestor de Alumnos
 #Crear un sistema con grupo, alumnos y calificaciones
 class Alumno:
     def __init__(self, matricula, nombre, apellido_p, apellido_m, semestre):
